@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d3cfcfa-486a-4d4f-8804-b830500b2b06/deploy-status)](https://app.netlify.com/sites/infallible-meitner-b9f476/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
